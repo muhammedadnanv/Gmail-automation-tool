@@ -29,14 +29,10 @@ To use the Gmail Automation Tool in Termux, you need to follow these steps:
    npm install
    ```
 
-### Set Up Gmail API:
 
-6. Follow the instructions in the repository's README to set up the Gmail API credentials. You may need to create a project in the Google Cloud Console and enable the Gmail API.
-
-7. Download the `credentials.json` file and place it in the project directory.
 
 ### Run the Tool:
 
-8. Execute the Termux command to run the Gmail Automation Tool:
+6. Execute the Termux command to run the Gmail Automation Tool:
    ```bash
    node index.js
